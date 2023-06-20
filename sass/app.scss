@@ -1,0 +1,116 @@
+$primary: #1a8c97;
+
+.nav_border{
+    border-bottom: 4px solid #212529;
+}
+
+.img_size{
+    width:3rem;
+    height:3rem;
+}
+
+.img_size2{
+    width:6rem;
+    height:6rem;
+}
+.img_size3{
+    width:10rem;
+    height:22.5rem;
+}
+.img_wrap{
+    height:50px;
+    width:50px;
+    // overflow: hidden;
+}
+
+main{
+    background: #f6f6f9;
+}
+
+aside{
+    height: 89vh
+}
+
+.pad{
+    height: 11vh;
+}
+
+.nav_item{
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.nav_item2{
+    border-left: 5px solid #1a8d97;
+    border-bottom: 5px solid #1a8d97;
+}
+
+.nav_item span{
+    cursor: pointer;
+}
+
+.nav_item:hover{
+    background: #1a8d97;
+    color: #ffffff;
+    backdrop-filter: blur(10px);
+}
+
+.more_1{
+    width: fit-content;
+    padding: .3rem 1rem;
+    cursor: pointer;
+}
+
+.more_1:hover{
+    background: red;
+}
+
+.dashbody{
+    height: 89vh;
+}
+
+.cursor{
+    cursor:pointer;
+}
+
+#commentCard{
+    max-height: 300px; 
+    overflow-y: scroll; 
+}
+
+.searchUsers :focus{
+    outline: none; 
+    box-shadow: none;
+}
+
+.users{
+    height: 400px;
+    overflow-y: scroll; 
+}
+
+.msg-body{
+    height: 350px;
+    overflow-y: scroll;
+}
+
+.realMsg{
+    max-width: calc(100% - 130px);
+}
+
+.realMsgPIN{
+    border-radius: 18px 18px 18px 0;
+}
+.realMsgPOUT{
+    border-radius: 18px 18px 0 18px;
+}
+
+.dnd{
+    font-size: 5rem;
+}
+
+
+// @import "customVariables";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
