@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="icon" href="images/newLogo3.png" type="image/png">
+    <title>NHMH || Contact us.</title>
     <link rel="stylesheet" href="sass/app.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" />
 
@@ -15,7 +16,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark  bg-primary ">
         <div class="container">
             <div class="navbar-brand d-flex align-items-center">
-                <a href="#"><img src="images/momi.png" alt="" class="img_size2"></a>
+                <a href="#"><img src="images/newLogo3.png" alt="" class="img_size2"></a>
                 <h4>New Horizons Maternity Hospital</h4>
             </div>
 

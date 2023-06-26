@@ -10,7 +10,8 @@ include "includes/getBlog.php";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>NHMH || Blog.</title>
+    <link rel="icon" href="images/newLogo3.png" type="image/png">
     <link rel="stylesheet" href="sass/app.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" />
 
@@ -20,7 +21,7 @@ include "includes/getBlog.php";
     <nav class="navbar navbar-expand-lg navbar-dark  bg-primary ">
         <div class="container">
             <div class="navbar-brand d-flex align-items-center">
-                <a href="#"><img src="images/momi.png" alt="" class="img_size2"></a>
+                <a href="#"><img src="images/newLogo3.png" alt="" class="img_size2"></a>
                 <h4>NHMH Blog</h4>
             </div>
 

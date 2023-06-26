@@ -1,5 +1,5 @@
 // Set the number of minutes of inactivity before logging out
-const inactivityTimeoutMinutes = 60;
+const inactivityTimeoutMinutes = 600;
 
 // Initialize a variable to store the timeout ID
 let inactivityTimeoutId;
